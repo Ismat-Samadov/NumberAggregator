@@ -14,7 +14,7 @@ A web scraping project built with Scrapy to collect car listings data from vario
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/NumberAggregator.git
+git clone https://github.com/Ismat-Samadov/NumberAggregator.git
 cd NumberAggregator
 ```
 
@@ -119,4 +119,4 @@ CREATE TABLE autonet_az (
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
