@@ -1,4 +1,3 @@
-```markdown
 # Number Aggregator
 
 A web scraping project built with Scrapy to collect car listings data from various automobile marketplaces.
@@ -121,4 +120,3 @@ CREATE TABLE autonet_az (
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
